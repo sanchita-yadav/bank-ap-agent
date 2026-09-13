@@ -18,6 +18,10 @@ Bank AP Intelligence uses an investigation agent to:
 - Adapt when a verification service fails
 - Decide whether an invoice should be approved, rejected, or escalated
 
+## 🚀 Live Demo
+
+[Open Bank AP Intelligence](https://bank-ap-agent-px79fmdycqjmnnetdqeuxr.streamlit.app)
+
 ## Agentic Workflow
 
 User Invoice
