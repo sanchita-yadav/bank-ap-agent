@@ -30,6 +30,10 @@ User Invoice
 
 If a tool fails, the agent can select a fallback verification method and continue the investigation.
 
+## 🚀 Live Demo
+
+[Open Bank AP Intelligence]([YOUR_STREAMLIT_URL](https://bank-ap-agent-px79fmdycqjmnnetdqeuxr.streamlit.app))
+
 ## Demo Scenarios
 
 | Scenario | Result |
